@@ -12,10 +12,6 @@
 
             {
 
- 
-
-                //println
-
                 var workbook = new XLWorkbook();
 
                 workbook.AddWorksheet("Veri Karıştırma");
